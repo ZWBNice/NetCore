@@ -40,10 +40,14 @@ public class NetCore: NSObject {
 
     }
     open func openRequest4(){
-        print("open请求3")
+        print("open请求4")
 
     }
 
+    open func openRequest5(){
+        print("open请求5")
+
+    }
 
 
 
