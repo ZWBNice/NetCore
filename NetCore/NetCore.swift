@@ -65,6 +65,11 @@ public class NetCore: NSObject {
 
     }
 
+    open func openRequest9(){
+        print("open请求9")
+
+    }
+
 
 
 }
